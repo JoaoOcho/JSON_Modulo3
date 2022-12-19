@@ -1,0 +1,80 @@
+{
+        "Hamburgueres": [
+          {
+            "nome": "Classico",
+            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, tomate e molho especial",
+            "preco": 16,
+            "id": 1
+          },
+          {
+            "nome": "Especial",
+            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, alface USA, tomate e molho especial",
+            "preco": 20,
+            "id": 2
+          },
+          {
+            "nome": "O Joca",
+            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, ovo, bacon, alface USA",
+            "preco": 25,
+            "id": 3
+          },
+          {
+            "nome": "O Joca",
+            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, ovo, bacon, alface USA",
+            "preco": 25,
+            "id": 4
+          }
+        ],
+        "Batata": [
+          {
+            "nome": "Batata Classica",
+            "preco": 8.90,
+            "id": 1
+          },
+          {
+            "nome": "Batata Cheddar",
+            "preco": 14.90,
+            "id": 2
+          },
+          {
+            "nome": "Batata Cheddar Plus Carne",
+            "preco": 16.90,
+            "id": 3
+          }
+        ],
+        "Suco": [
+          {
+            "nome": "Laranja",
+            "preco": 2.90,
+            "id": 1
+          },
+          {
+            "nome": "Abacaxi com Hortela",
+            "preco": 4.90,
+            "id": 2
+          },
+          {
+            "nome": "Uva",
+            "preco": 3.30,
+            "id": 3
+          }
+        ],
+        "Doces": [
+          {
+            "nome": "Sorvete - 200g",
+            "preco": 4.90,
+            "id": 1
+          },
+          {
+            "nome": "Açaí - 200g",
+            "preco": 3.90,
+            "id": 2
+          },
+          {
+            "nome": "Brigadeiro de colher - 200g",
+            "preco": 3.90,
+            "id": 2
+          }
+        ]
+      
+}
