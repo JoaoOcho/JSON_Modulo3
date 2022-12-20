@@ -5,7 +5,7 @@
 <p> Foi proposto o desenvolvimento de um servidor Json (JSON-SERVER) que tivesse três (ou mais) rotas, onde as entidades utilizadas deveriam possuir tres (ou mais) atributos. O Json-Server deve ser funcional sendo capaz de acessar dados HTTP <b>(GET)</b>, inserir <b>(POST)</b>, alterar <b>(PUT)</b> e excluir <b>(DELETE)</b> informações presentes em todas as suas rotas. </p>
 
 ### :books: TEMA:
-<p> Meu tema para realização do projeto foi hospedaria. o Projeto possui tres rotas representando os gêneros e categorias de hoteis, pousadas e condominios, onde cada uma possui dados pré-preenchidos (mockados). <br><br><b>AS ROTAS:</b>
+<p> Meu tema para realização do projeto foi hospedaria. o Projeto possui tres rotas representando os gêneros e categorias de hoteis, pousadas e condominios, onde cada uma possui dados pré-preenchidos (mockados). <br><br>
 
 ### :toolbox: TECNOLOGIAS USADAS:
 <div align="center" style="display: inline_block">
