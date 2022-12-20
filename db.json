@@ -1,80 +1,71 @@
 {
-        "Hamburgueres": [
+        "hotel": [
           {
-            "nome": "Classico",
-            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, tomate e molho especial",
-            "preco": 16,
+            "nome": "suite presidencial",
+            "Recheio": "Área de lazer com varanda com vista para praia, sala de estar com tv e mesa de jantar, 1 quarto de casal e 1 quarto de solteiro com banheiro em ambos os quartos sendo que o banheiro de casal possui banheira com hidro ",
+            "preco diaria": 2.500,
             "id": 1
           },
           {
-            "nome": "Especial",
-            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, alface USA, tomate e molho especial",
-            "preco": 20,
+            "nome": "suite simples",
+            "Recheio": "quarto com banheiro incuso, area de tv com cozinha",
+            "preco diaria": 500,
             "id": 2
           },
           {
-            "nome": "O Joca",
-            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, ovo, bacon, alface USA",
-            "preco": 25,
+            "nome": "suite sem hidro",
+            "Recheio": "Área de lazer com tv plana com cozinha inclusa, área do quarto com banheiro incluso, área externa que tem vista para bosque",
+            "preco diaria": 1.000,
             "id": 3
           },
           {
-            "nome": "O Joca",
-            "Recheio": "Pao selado com manteiga especial, hamburguer, 2 fatias de queijo cheddar, ovo, bacon, alface USA",
-            "preco": 25,
+            "nome": "suite com hidro",
+            "Recheio": "Área de lazer com tv plana com cozinha inclusa, área do quarto com banheiro incluso, área externa que contem hidro-massagem e vista para bosque",
+            "preco diaria": 1.500,
             "id": 4
           }
         ],
-        "Batata": [
+        "condominio": [
           {
-            "nome": "Batata Classica",
-            "preco": 8.90,
+            "nome": "casa padrao",
+            "Recheio": "2 quartos sendo 1 com banheiro incluso, sala com cozinha acoplada, banheiro com ducha, área de estacionamento de carro",
+            "preco mensal": 1.500,
             "id": 1
           },
           {
-            "nome": "Batata Cheddar",
-            "preco": 14.90,
+            "nome": "minha casa minha vida",
+            "Recheio": "1 quarto de casal, area de serviço, sala com cozinha aclopada",
+            "preco mensal": 500,
             "id": 2
           },
           {
-            "nome": "Batata Cheddar Plus Carne",
-            "preco": 16.90,
+            "nome": "mini mansao",
+            "Recheio": "3 quartos e todos com banheiros inclusos, área de lazer com tv inclusa, varanda com piscina, banheiro com banheira e ducha, cozinha separada com area de serviço",
+            "preco mensal": 3.000,
             "id": 3
           }
         ],
-        "Suco": [
+        "pousada": [
           {
-            "nome": "Laranja",
-            "preco": 2.90,
+            "nome": "pousada das montanhas",
+            "Recheio": "pousada com 2 quartos e area de lazer inclusa, banheiro com agua encanada, area externa com bancos e rede para observar a natureza, cozinha acoplada com area de estar ",
+            "preco diaria": 300,
+            "comporta ate": "2 adultos e 1 crianca",
             "id": 1
           },
           {
-            "nome": "Abacaxi com Hortela",
-            "preco": 4.90,
+            "nome": "pousada de fazenda",
+            "Recheio": "4 quartos, intinerario de tour pela fazenda afim de conhecer os animais e o local, area externa com vista para as colinas, cozinha com banheiro incluso, garagem comportando 2 carros, ",
+            "preco diaria": 1.000,
+            "comporta ate": "3 adultos e 4 criancas",
             "id": 2
           },
           {
-            "nome": "Uva",
-            "preco": 3.30,
+            "nome": "pousada de bosque",
+            "Recheio": "3 quartos com banheiros inclusos, janela com vista para a floresta, sala de estar com sofa de 3 lugares, cozinha com area de serviço, (opcional) guia de turismo presente para mostrar o local e realizar uma trilha inesquecivel, 2 banheiros",
+            "preco diaria": 1.000,
+            "comporta ate": "4 adultos",
             "id": 3
-          }
-        ],
-        "Doces": [
-          {
-            "nome": "Sorvete - 200g",
-            "preco": 4.90,
-            "id": 1
-          },
-          {
-            "nome": "Açaí - 200g",
-            "preco": 3.90,
-            "id": 2
-          },
-          {
-            "nome": "Brigadeiro de colher - 200g",
-            "preco": 3.90,
-            "id": 2
           }
         ]
-      
 }
